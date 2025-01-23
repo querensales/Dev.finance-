@@ -1,0 +1,23 @@
+{
+  "name": "dev.finance-",
+  "version": "1.0.0",
+  "description": "Maratona discover",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Queren Sales",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/querensales/Dev.finance-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/querensales/Dev.finance-/issues"
+  },
+  "homepage": "https://github.com/querensales/Dev.finance-#readme"
+}
