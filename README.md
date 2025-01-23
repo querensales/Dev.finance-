@@ -121,6 +121,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 - **Cypress Cloud**: Integração e monitoramento em nuvem.
 
 ---
-
-Se precisar de ajuda para configurar algo ou tiver dúvidas sobre o projeto, é só avisar! 😊
-
