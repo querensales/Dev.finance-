@@ -25,15 +25,21 @@ Garantir que as funcionalidades do Dev Finance estejam funcionando conforme o es
 1. Clicar no botão "Nova Transação".
 2. Preencher os campos:
    - Nome: "Freelance"
-   - Valor: "500"
+   - Valor: "5000"
    - Data: "01/01/2025"
 3. Clicar no botão "Salvar".
 
 **Resultado esperado:** A nova transação aparece na tabela e o saldo é atualizado.
 
 ---
+### Cenário 3: adicionar transação negativa
+2. Preencher os campos:
+   - Nome: "Dizimo"
+   - Valor: "- 500"
+   - Data: "01/01/2025"
+3. Clicar no botão "Salvar".
 
-### Cenário 3: Excluir uma transação
+### Cenário 4: Excluir uma transação
 **Passos:**
 1. Clicar no ícone de lixeira ao lado de uma transação.
 2. Confirmar a exclusão.
